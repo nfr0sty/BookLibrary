@@ -1,0 +1,15 @@
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/bin/Debug/net7.0/BookLibrary
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/bin/Debug/net7.0/BookLibrary.deps.json
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/bin/Debug/net7.0/BookLibrary.runtimeconfig.json
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/bin/Debug/net7.0/BookLibrary.dll
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/bin/Debug/net7.0/BookLibrary.pdb
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.csproj.AssemblyReference.cache
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.AssemblyInfoInputs.cache
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.AssemblyInfo.cs
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.csproj.CoreCompileInputs.cache
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.dll
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/refint/BookLibrary.dll
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.pdb
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/BookLibrary.genruntimeconfig.cache
+/Users/nick/D/MyProject/BookLibrary/BookLibrary/obj/Debug/net7.0/ref/BookLibrary.dll
